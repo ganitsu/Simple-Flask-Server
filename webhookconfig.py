@@ -6,4 +6,5 @@ USE_SECRET = False
 
 
 RESTART_CALL = ['python', '--version']
+PULL_CALL = ['git', 'pull']
 
